@@ -1,0 +1,31 @@
+{
+  "$schema": "https://jimm.online/store/manifest.schema.json",
+  "schema": 1,
+  "id": "jim-ios",
+  "name": "Jim для iPhone",
+  "summary": "ICQ-клиент Jimm.online для iPhone 4S: сообщения, фото и X-статусы. iOS 6 и iOS 9, установка через Cydia.",
+  "description": "Jim — полноценное нативное приложение для общения в Jimm.online на старых iPhone. Привычный интерфейс, цветок ICQ и темы ICQ, QIP и Jimm.\n\nВозможности: личная переписка и состояния отправки, история и поиск, черновики, цитаты и ссылки, контакты и группы, аватары, смайлики, сетевые и X-статусы. Можно отправлять фотографии из фототеки или камеры и открывать их с увеличением. Есть звуки сообщений, тихие чаты и восстановление соединения.\n\nУстановка: добавьте в Cydia источник https://michirose.github.io/cydia/ и выберите Jim (iOS 6) для iOS 6.1.3–6.1.6 либо Jim (iOS 9) для iOS 9.x. Нужны jailbreak и совместимый AppSync Unified. Если источник уже добавлен для Telegraphica, обновите список пакетов. После установки войдите со своим UIN и паролем Jimm.online.\n\nПриложение разработано для iPhone 4S. Вход и переписка проверены на iOS 6.1.3; iOS 9 и обмен фотографиями ещё требуют проверки на физическом устройстве. iOS 7 и 8 не поддерживаются. Фоновый приём при закрытом приложении, голосовые сообщения, видео и звонки не реализованы. Перенос данных из USB/IPA-установки в Cydia ещё не добавлен: существующую копию приложения и историю сохраняйте.\n\nJim — независимое приложение сообщества. На иллюстрациях демонстрационные данные. Пароли не сохраняются; при запоминании входа токены хранятся в Связке ключей.",
+  "icon": "https://raw.githubusercontent.com/MiChiRose/Jim-iOS/main/images/icon.png",
+  "screenshots": [
+    "https://raw.githubusercontent.com/MiChiRose/Jim-iOS/main/images/contacts.png",
+    "https://raw.githubusercontent.com/MiChiRose/Jim-iOS/main/images/photos.png"
+  ],
+  "category": "client",
+  "license": "freeware",
+  "developer": {
+    "name": "MiChiRose",
+    "url": "https://github.com/MiChiRose"
+  },
+  "homepage": "https://michirose.github.io/cydia/depictions/jim/",
+  "version": "0.1.0 (build 8)",
+  "platforms": [
+    {
+      "os": "ios",
+      "min_version": "6.1.3",
+      "source": {
+        "type": "github",
+        "repo": "MiChiRose/Jim-iOS"
+      }
+    }
+  ]
+}
