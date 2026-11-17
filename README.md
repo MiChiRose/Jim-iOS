@@ -1,4 +1,4 @@
-# Jim — ICQ для iPhone
+# Jim Classic — ICQ для старых iPhone
 
 <p align="center">
   <img src="images/icon.png" width="114" alt="Иконка Jim: цветок ICQ на белом фоне">
@@ -9,9 +9,11 @@
 
 **Сборка 8 · iOS 6.1.3–6.1.6 и iOS 9.x · ARMv7 · Jailbreak + AppSync**
 
-Jim — полноценное самостоятельное приложение для общения в сети **Jimm.online**.
+Jim Classic — полноценное самостоятельное приложение для общения в сети **Jimm.online**.
 Оно устанавливается на домашний экран и работает напрямую с сервисом, без
 браузерной оболочки. Это независимый клиент, а не официальное приложение ICQ.
+
+**В JimmStore приложение называется Jim Classic. В Cydia ищите «Jim (iOS 6)» или «Jim (iOS 9)».**
 
 [Установить Jim](#install-jim) · [Возможности](#jim-features) · [Фотографии](#jim-photos) · [Обновление](#update-jim) · [Загрузки](https://github.com/MiChiRose/Jim-iOS/releases)
 
